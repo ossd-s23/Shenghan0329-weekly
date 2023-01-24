@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about John(Shenghan)!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+I like watching movies, travelling, and I play a lot of video games when I am down. 
+I love linstening to stories, but I'm extremely poor at telling stories of myself.
