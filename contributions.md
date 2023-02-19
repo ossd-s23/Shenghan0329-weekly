@@ -22,6 +22,9 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+|  Jan 31   | [Comment wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Shenghan0329) [Picture](./images/week1-wiki.png)    |  Wikipedia   |   I reported a potential reference for an unsupported claim.    |
+|  Jan 31   |  [Edit OpenStreetMap](https://www.openstreetmap.org/user/Shenghan0329/history) [Picture](./images/week1-map.png)   |  OpenStreetMap   |   I added my primary school to OpenStreetMap  |
+|  Feb 10   |  [Edit OpenStreetMap](https://www.openstreetmap.org/user/Shenghan0329/history) [Picture](./images/week3-map.png)   |  OpenStreetMap   |   I added my neighborhood and the park I had spent time in since I was 5 years old   |
+|     |     |     |      |
 |     |     |     |      |
 |     |     |     |      |
