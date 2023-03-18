@@ -31,3 +31,4 @@ Replace the first row with your own contribution.
 |  Mar 17   |  [Edit Wikipedia](https://en.wikipedia.org/w/index.php?title=Mount_Tianzhu&diff=prev&oldid=1145244360)   |  Wikipedia   |   Corrected an inaccurate description due to a mistake in Chinese translation   |
 |  Mar 17  |  [Edit OpenStreetMap](https://www.openstreetmap.org/user/Shenghan0329/history)   |  OpenStreetMap   |   I added the most delicious Indian food I have tasted to the map   |
 |  Mar 17   |  [Edit Wikipedia](https://en.wikipedia.org/w/index.php?title=Anhui_cuisine&diff=prev&oldid=1145252142)   |  Wikipedia   |   Added a very important dish to the cuisine of my hometown   |
+|  Mar 17  |  [Edit OpenStreetMap](https://www.openstreetmap.org/user/Shenghan0329/history)   |  OpenStreetMap   |   I added Nyonya, one of my favourite restaurants in New York   |
