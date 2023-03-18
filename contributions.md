@@ -28,3 +28,6 @@ Replace the first row with your own contribution.
 |  Feb 19  |  [Edit OpenStreetMap](https://www.openstreetmap.org/user/Shenghan0329/history) [Picture](./images/week4-map.png)   |  OpenStreetMap   |   I added the 1 E 2nd Street dormintory and labeled it as NYU   |
 |  Feb 26   |  [Upload book](https://archive.org/details/20230226_20230226_2303)   |  Internet Archive   |   Added my favorite book which has the most impact on my way to think   |
 |  Feb 26   |  [Upload novel](https://archive.org/details/20230226_20230226_2333)   |  Internet Archive   |   Added a novel I really like   |
+|  Mar 17   |  [Edit Wikipedia](https://en.wikipedia.org/w/index.php?title=Mount_Tianzhu&diff=prev&oldid=1145244360)   |  Wikipedia   |   Corrected an inaccurate description due to a mistake in Chinese translation   |
+|  Mar 17  |  [Edit OpenStreetMap](https://www.openstreetmap.org/user/Shenghan0329/history)   |  OpenStreetMap   |   I added the most delicious Indian food I have tasted to the map   |
+|  Mar 17   |  [Edit Wikipedia](https://en.wikipedia.org/w/index.php?title=Anhui_cuisine&diff=prev&oldid=1145252142)   |  Wikipedia   |   Added a very important dish to the cuisine of my hometown   |
