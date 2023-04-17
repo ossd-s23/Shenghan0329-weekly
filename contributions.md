@@ -33,4 +33,4 @@ Replace the first row with your own contribution.
 |  Mar 17   |  [Edit Wikipedia](https://en.wikipedia.org/w/index.php?title=Anhui_cuisine&diff=prev&oldid=1145252142)   |  Wikipedia   |   Added a very important dish to the cuisine of my hometown   |
 |  Mar 17  |  [Edit OpenStreetMap](https://www.openstreetmap.org/user/Shenghan0329/history)   |  OpenStreetMap   |   I added Nyonya, one of my favourite restaurants in New York    |
 |  Mar 19   |  [Edit Wikmedia](https://commons.wikimedia.org/w/index.php?title=File%3AKorean_hot_pot_with_Chinese_dippings.jpg&diff=prev&oldid=741904671&diffmode=source)   |  Wikimedia   |   Added the image of a home-made Korean hotpot with Chinese dippings   |
-
+|  April 16   |  [Report bug: passport-local-mongoose](https://github.com/saintedlama/passport-local-mongoose/issues/360)   |  passport-local-mongoose   |   Updated the existence of this bug in Version 8.0.0 in comments, which made me spent two hours debugging   |
