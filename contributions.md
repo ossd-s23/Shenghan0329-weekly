@@ -36,6 +36,5 @@ Replace the first row with your own contribution.
 |  Mar 17  |  [Edit OpenStreetMap](https://www.openstreetmap.org/changeset/133809490)   |  OpenStreetMap   |   I added Nyonya, one of my favourite restaurants in New York    |
 |  Mar 19   |  [Edit Wikmedia](https://commons.wikimedia.org/w/index.php?title=File:Korean_hot_pot_with_Chinese_dippings.jpg&diff=prev&oldid=741904671)   |  Wikimedia   |   Added the image of a home-made Korean hotpot with Chinese dippings   |
 |  April 16   |  [Report bug: passport-local-mongoose](https://github.com/saintedlama/passport-local-mongoose/issues/360)   |  passport-local-mongoose   |   Updated the existence of this bug in Version 8.0.0 in comments, which made me spent two hours debugging   |
-|  April 22  |  Edit OpenStreetMap [1](https://www.openstreetmap.org/changeset/135240635) [2](https://www.openstreetmap.org/changeset/135240715) [3](https://www.openstreetmap.org/changeset/135240635)  |  OpenStreetMap   |   Added several restaurants I frequently dined in    |
+|  April 22  |  Edit OpenStreetMap [1 A breakfast shop](https://www.openstreetmap.org/node/10832403207) [2 Dumpling and Noodle](https://www.openstreetmap.org/node/10832320098) [3 MacDonalds](https://www.openstreetmap.org/node/10832433306)  |  OpenStreetMap   |   Added several restaurants I frequently dined in    |
 |  April 22   |  [Edit Wikimedia Commons: upload textbook](https://commons.wikimedia.org/w/index.php?title=File:2018_Book_ProofsFromTHEBOOK.pdf&diff=prev&oldid=753324147)   |  Wikimedia   |   Uploaded a textbook for discrete mathematics   |
-
